@@ -30,18 +30,18 @@ There was not much difficulty creating The first chart ( _Outcomes Based on Laun
 
 ## Results 
 
--What are two conclusions you can draw about the Outcomes based on Launch Date?
+#### What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 Based on the _Outcomes Based on Launch Date_ chart, we filtered the following outcomes (successful, failed, and cancelled) according to the twelves months of the year (January-December). In terms of success, the two months with the most success were May (most successful) and June (second most successful), followed up by July as well (third most successful). In terms of failed, all months were relatively close in numbers (around 30ish, 40ish, 50ish). The most failed were in the following three months: May (52), and July & October tied with the same (50). The most cancelled (7) was in the early month of January. 
 
--What can you conclude about the Outcomes based on Goals?
+#### What can you conclude about the Outcomes based on Goals?
 
 Based on the _Outcomes Based on Goals_ chart, reflecting upon the percentages, the most successful was for the Goal Amount Bracket of less than $1000, followed up by the Goal Amount Bracket of $1000 to $4999.The _Percentage of Succecssful_ dips toward the middle amount brackets, but rises again at the Goal Amount Brackets of $35,000 to $39,999 and $40,000 to $44,999. The Goal Amount Bracket of $45,000 to $49,000 was an 100% _percentage failed._, and there were no projects cancelled. 
 
--What are some limitations of this dataset?
+#### What are some limitations of this dataset?
 
 In terms of limitations of this dataset, it could help if there was more context to the data provided. Also, the country (US, GBP, EUR, etc) may provide insight on the data results, because the months may be different depending on which country. And gaining more background on the demographics of the type of people that gravitate or enjoy theaters/plays would be useful.
 
--What are some other possible tables and/or graphs that we could create? 
+#### What are some other possible tables and/or graphs that we could create? 
 
 Other possible table/graph that we could create would be a bar graph for the _Outcomes Based on Launch Date_ chart, or a pie chart for the _Outcomes Based on Goals_ to show the percentages or different goal amount brackets. 
